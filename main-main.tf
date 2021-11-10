@@ -9,8 +9,8 @@ terraform {
 
 provider "aws" {
   region = "eu-west-1"
-  access_key = "AKIATTDC4KMEMCZZRTWK" // add your own key valuse here
-  secret_key = "8nykO0/YW7FqE9t98/Y5HkrhA2Zoog+DV0dFNZiL"
+  access_key = "" // add your own key valuse here
+  secret_key = ""
 }
 
 module "S3" {
