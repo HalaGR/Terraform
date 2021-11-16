@@ -17,3 +17,4 @@ variable "availability_zone" {
 }
 
 
+
